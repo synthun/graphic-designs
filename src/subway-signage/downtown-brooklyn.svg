@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2065.96 421.28">
+  <rect x="0" width="2065.96" height="421.28" style="fill: #000000; stroke-width: 0px;"/>
+  <rect x="0" y="42.7" width="2065.96" height="10.07" style="fill: #fff; stroke-width: 0px;"/>
+  <text transform="translate(14.02 190.88) scale(1.02 1)" style="fill: #fff; font-family: Helvetica-Bold, Helvetica; font-size: 158.22px; font-weight: 700; letter-spacing: .02em;"><tspan x="0" y="0">Downtown</tspan><tspan x="0" y="154.29">&amp; Brooklyn</tspan></text>
+  <ellipse cx="1128.33" cy="236.34" rx="164.67" ry="166.65" style="fill: #fec811; stroke-width: 0px;"/>
+  <text transform="translate(1040.99 324.11)" style="fill: #000000; font-family: Helvetica-Bold, Helvetica; font-size: 241.64px; font-weight: 700; letter-spacing: .02em;"><tspan x="0" y="0">N</tspan></text>
+  <ellipse cx="1488.9" cy="236.34" rx="164.67" ry="166.65" style="fill: #fec811; stroke-width: 0px;"/>
+  <text transform="translate(1401.57 324.11)" style="fill: #000000; font-family: Helvetica-Bold, Helvetica; font-size: 241.64px; font-weight: 700; letter-spacing: .02em;"><tspan x="0" y="0">R</tspan></text>
+  <polygon points="1717.98 134.51 1776.65 75.84 1947.61 246.21 1947.61 150.68 2031.47 150.8 2031.47 388.43 1796.8 388.43 1797.1 305.77 1887.76 305.77 1717.98 134.51" style="fill: #fff; stroke: #fec70b; stroke-miterlimit: 10;"/>
+</svg>
